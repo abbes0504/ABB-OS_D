@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.escritorio{
+    width: 100rem;
+    height: 55rem;
+    background-color: #fff; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.escritorio img{
+    width: 60%;
+    height: 60%;
+    object-fit: cover;
+}
