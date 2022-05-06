@@ -1,0 +1,57 @@
+.barra{
+    width: 73.75rem;
+    height: 3rem;
+    background-color: #756DA6;
+    
+    position:absolute;
+    bottom: -188px;
+   
+    margin-left: center;
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+
+.menu{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-left: 0.5rem;
+    margin-top: 0.25rem;
+
+}
+
+.menu img{
+    height: 2.5rem;
+}
+
+.directorio{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-left: 1rem;
+    margin-top: 0.25rem; 
+}
+
+.directorio img{
+    height: 2.5rem;
+}
+
+  .hora{
+    height: 2.5rem;
+    width: 7rem;
+    margin-left: 59rem;
+    margin-top: 0.25rem; 
+  }
+
+  .fecha{
+    height: 1.05rem;
+    width: 6rem;
+    margin: auto;
+    margin-top: 2px;
+
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Raleway', sans-serif;  
+    font-size: 15px;
+    text-align: center;
+  }
